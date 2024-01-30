@@ -1,0 +1,289 @@
+{
+    "resources": [
+        {
+            "name": "test/flpSandbox.html"
+        },
+        {
+            "name": "test/unit/controller/Worklist-dbg.controller.js"
+        },
+        {
+            "name": "test/unit/controller/Worklist.controller.js"
+        },
+        {
+            "name": "test/unit/controller/App-dbg.controller.js"
+        },
+        {
+            "name": "test/unit/controller/App.controller.js"
+        },
+        {
+            "name": "test/unit/model/models.js"
+        },
+        {
+            "name": "test/unit/model/formatter-dbg.js"
+        },
+        {
+            "name": "test/unit/model/models-dbg.js"
+        },
+        {
+            "name": "test/unit/model/formatter.js"
+        },
+        {
+            "name": "test/unit/helper/FakeI18nModel.js"
+        },
+        {
+            "name": "test/unit/helper/FakeI18nModel-dbg.js"
+        },
+        {
+            "name": "test/unit/allTests.js"
+        },
+        {
+            "name": "test/unit/allTests-dbg.js"
+        },
+        {
+            "name": "test/unit/unitTests.qunit.html"
+        },
+        {
+            "name": "test/testsuite.qunit.html"
+        },
+        {
+            "name": "test/flpSandboxMockServer.html"
+        },
+        {
+            "name": "test/integration/NavigationJourney-dbg.js"
+        },
+        {
+            "name": "test/integration/FLPIntegrationJourney-dbg.js"
+        },
+        {
+            "name": "test/integration/ObjectJourney-dbg.js"
+        },
+        {
+            "name": "test/integration/opaTests.qunit.html"
+        },
+        {
+            "name": "test/integration/WorklistJourney.js"
+        },
+        {
+            "name": "test/integration/pages/App-dbg.js"
+        },
+        {
+            "name": "test/integration/pages/NotFound.js"
+        },
+        {
+            "name": "test/integration/pages/Common.js"
+        },
+        {
+            "name": "test/integration/pages/Object.js"
+        },
+        {
+            "name": "test/integration/pages/App.js"
+        },
+        {
+            "name": "test/integration/pages/Object-dbg.js"
+        },
+        {
+            "name": "test/integration/pages/shareOptions.js"
+        },
+        {
+            "name": "test/integration/pages/Browser-dbg.js"
+        },
+        {
+            "name": "test/integration/pages/shareOptions-dbg.js"
+        },
+        {
+            "name": "test/integration/pages/Worklist.js"
+        },
+        {
+            "name": "test/integration/pages/Browser.js"
+        },
+        {
+            "name": "test/integration/pages/NotFound-dbg.js"
+        },
+        {
+            "name": "test/integration/pages/Common-dbg.js"
+        },
+        {
+            "name": "test/integration/pages/Worklist-dbg.js"
+        },
+        {
+            "name": "test/integration/AllJourneys-dbg.js"
+        },
+        {
+            "name": "test/integration/NotFoundJourney.js"
+        },
+        {
+            "name": "test/integration/AllJourneys.js"
+        },
+        {
+            "name": "test/integration/FLPIntegrationJourney.js"
+        },
+        {
+            "name": "test/integration/ObjectJourney.js"
+        },
+        {
+            "name": "test/integration/NavigationJourney.js"
+        },
+        {
+            "name": "test/integration/WorklistJourney-dbg.js"
+        },
+        {
+            "name": "test/integration/NotFoundJourney-dbg.js"
+        },
+        {
+            "name": "package.json"
+        },
+        {
+            "name": "resources.json",
+            "merged": true
+        },
+        {
+            "name": "view/FormDetails.view.xml"
+        },
+        {
+            "name": "view/FormList.view.xml"
+        },
+        {
+            "name": "view/ObjectNotFound.view.xml"
+        },
+        {
+            "name": "view/NotFound.view.xml"
+        },
+        {
+            "name": "view/App.view.xml"
+        },
+        {
+            "name": "manifest-bundle.zip"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": ".che/project.json"
+        },
+        {
+            "name": "model/formatter.js"
+        },
+        {
+            "name": "model/formatter-dbg.js"
+        },
+        {
+            "name": "model/models-dbg.js"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "utils/lodash.js"
+        },
+        {
+            "name": "utils/UIHelper.js"
+        },
+        {
+            "name": ".user.project.json"
+        },
+        {
+            "name": "images/devplanbg.jpg"
+        },
+        {
+            "name": "images/loading.gif"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "Gruntfile.js"
+        },
+        {
+            "name": "controller/NotFound.controller.js"
+        },
+        {
+            "name": "controller/ErrorHandler.js"
+        },
+        {
+            "name": "controller/App.controller.js"
+        },
+        {
+            "name": "controller/FormDetails.controller.js"
+        },
+        {
+            "name": "controller/FormList.controller.js"
+        },
+        {
+            "name": "controller/BaseController.js"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "localService/metadata.xml"
+        },
+        {
+            "name": "localService/mockserver-dbg.js"
+        },
+        {
+            "name": "localService/mockserver.js"
+        },
+        {
+            "name": "fragment/HeaderAppraiser.fragment.xml"
+        },
+        {
+            "name": "fragment/AddNewElementCatalog.fragment.xml"
+        },
+        {
+            "name": "fragment/ElementSurvey.fragment.xml"
+        },
+        {
+            "name": "fragment/HeaderStatus.fragment.xml"
+        },
+        {
+            "name": "fragment/ValueDescription.fragment.xml"
+        },
+        {
+            "name": "fragment/UploadAttachments.fragment.xml"
+        },
+        {
+            "name": "fragment/HeaderOthers.fragment.xml"
+        },
+        {
+            "name": "fragment/AddNewElementFreeForm.fragment.xml"
+        },
+        {
+            "name": "fragment/AttachmentList.fragment.xml"
+        },
+        {
+            "name": "fragment/DevelopmentTrainings.fragment.xml"
+        },
+        {
+            "name": "fragment/AddNewElementObjective.fragment.xml"
+        },
+        {
+            "name": "fragment/GenericBusyDialog.fragment.xml"
+        },
+        {
+            "name": "fragment/AddNewElementFree.fragment.xml"
+        },
+        {
+            "name": "fragment/HeaderAppraisee.fragment.xml"
+        },
+        {
+            "name": "package-lock.json"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": ".project.json"
+        },
+        {
+            "name": "css/style-dbg.css"
+        },
+        {
+            "name": "css/style.css"
+        }
+    ]
+}
